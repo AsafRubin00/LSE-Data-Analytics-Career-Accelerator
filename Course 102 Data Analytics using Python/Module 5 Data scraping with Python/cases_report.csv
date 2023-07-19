@@ -1,0 +1,212 @@
+"Country,Other",Total Cases,Total Deaths,Total Recovered,Active Cases,"Serious, Critical"
+,World,464.0,0.0,"+10,672","20,551,665"
+1.0,USA,,,,"674,040"
+2.0,India,,,,"1,453"
+3.0,France,,,"+2,895","16,503"
+4.0,Germany,,,,"13,733"
+5.0,Brazil,,,,"729,340"
+6.0,Japan,,,,
+7.0,S. Korea,,,"+6,379","237,668"
+8.0,Italy,,,,"113,365"
+9.0,UK,,,+541,"4,946"
+10.0,Russia,,,,"155,331"
+11.0,Turkey,,,,
+12.0,Spain,,,,"30,634"
+13.0,Australia,,,,"10,758"
+14.0,Vietnam,57.0,,+15,"937,577"
+18.0,Mexico,,,,"413,641"
+19.0,Iran,,,,"96,094"
+20.0,Indonesia,,,,"8,245"
+21.0,Poland,6.0,,,"1,062,350"
+22.0,Colombia,,,,"40,080"
+24.0,Austria,,,,"3,811"
+25.0,Portugal,,,,"2,222"
+27.0,Chile,,,,46
+28.0,Malaysia,,,,"14,954"
+29.0,Israel,,,,"18,173"
+30.0,Belgium,,,,"1,962"
+32.0,Thailand,,,,"25,415"
+33.0,Canada,,,,"7,858"
+34.0,Czechia,,,,193
+36.0,Switzerland,,,,"1,167"
+37.0,Philippines,397.0,,+531,"6,637"
+38.0,South Africa,,,,"61,362"
+39.0,Romania,,,,"1,096"
+40.0,Denmark,,,,88
+41.0,Hong Kong,,,,"5,002"
+42.0,Sweden,,,+56,"1,392"
+43.0,Serbia,,,,"1,043"
+44.0,Singapore,,,,"354,011"
+45.0,Iraq,,,,673
+46.0,New Zealand,,,,"5,135"
+47.0,Hungary,,,,"2,135"
+48.0,Bangladesh,,,,"14,944"
+50.0,Georgia,,,,"51,889"
+51.0,Jordan,,,,"1,868"
+52.0,Ireland,,,+284,675
+53.0,Pakistan,,,,"11,882"
+54.0,Norway,,,,256
+55.0,Finland,,,,"1,243"
+56.0,Kazakhstan,,,,"14,963"
+57.0,Slovenia,,,,81
+58.0,Lithuania,3.0,,+37,381
+59.0,Bulgaria,,,,"1,420"
+60.0,Morocco,,,,"2,720"
+61.0,Croatia,,,,145
+62.0,Guatemala,,,,"5,484"
+63.0,Lebanon,,,,"140,029"
+64.0,Costa Rica,,,,"365,864"
+65.0,Bolivia,,,,"9,460"
+66.0,Tunisia,,,,
+67.0,Cuba,,,,117
+68.0,UAE,,,,"10,156"
+70.0,Panama,,,,779
+71.0,Uruguay,,,,196
+73.0,Nepal,,,,18
+74.0,Belarus,,,,"1,327"
+75.0,Latvia,,,,380
+76.0,Saudi Arabia,,,,"3,900"
+77.0,Azerbaijan,,,,9
+78.0,Paraguay,,,,
+79.0,Bahrain,,,,160
+80.0,Sri Lanka,,,,9
+81.0,Kuwait,,,,"3,175"
+82.0,Dominican Republic,,,,"13,249"
+84.0,Myanmar,,,,"1,581"
+85.0,Palestine,,,,159
+86.0,Moldova,,,,"104,470"
+87.0,Estonia,,,,"91,306"
+88.0,Venezuela,,,,302
+89.0,Egypt,,,,"49,228"
+90.0,Qatar,,,,147
+92.0,Ethiopia,,,,"5,193"
+93.0,Réunion,,,,"67,095"
+94.0,Honduras,,,,
+95.0,Armenia,,,,"5,332"
+96.0,Bosnia and Herzegovina,,,,"7,613"
+97.0,Oman,,,,"10,152"
+98.0,North Macedonia,,,,"1,590"
+99.0,Zambia,,,,"1,644"
+100.0,Kenya,,,,788
+101.0,Albania,,,,"1,696"
+102.0,Botswana,,,,227
+103.0,Luxembourg,,,,"2,037"
+104.0,Brunei ,,,,"64,951"
+105.0,Montenegro,,,,464
+106.0,Algeria,,,,"81,910"
+107.0,Nigeria,,,,"3,567"
+108.0,Zimbabwe,,,,"1,007"
+109.0,Uzbekistan,,,,"10,539"
+110.0,Mozambique,,,,"2,369"
+111.0,Martinique,,,,
+112.0,Afghanistan,,,,"12,371"
+113.0,Laos,,,,
+114.0,Iceland,,,,
+115.0,Kyrgyzstan,,,,"7,500"
+116.0,Guadeloupe,,,,
+117.0,El Salvador,,,,"18,145"
+118.0,Trinidad and Tobago,,,,28
+119.0,Maldives,,,,"22,682"
+120.0,Ghana,,,,34
+121.0,Namibia,,,,120
+122.0,Uganda,,,,"66,712"
+123.0,Jamaica,,,,"48,715"
+124.0,Cambodia,,,+7,19
+125.0,Rwanda,,,,79
+126.0,Cameroon,,,,309
+127.0,Malta,,,,563
+128.0,Barbados,,,,230
+129.0,Angola,,,,31
+130.0,Channel Islands,,,,168
+131.0,French Guiana,,,,"86,367"
+132.0,DRC,,,,"11,687"
+133.0,Senegal,,,,10
+134.0,Malawi,,,,433
+135.0,Ivory Coast,,,,3
+136.0,Suriname,,,,
+137.0,New Caledonia,,,,3
+138.0,French Polynesia,,,,
+139.0,Eswatini,,,,339
+140.0,Guyana,,,,73
+141.0,Belize,,,,9
+142.0,Fiji,,,,"1,006"
+143.0,Madagascar,,,,2
+144.0,Cabo Verde,,,,83
+145.0,Sudan,,,,184
+146.0,Mauritania,,,,247
+147.0,Bhutan,,,,"1,088"
+149.0,Burundi,,,,581
+150.0,Seychelles,,,,15
+151.0,Gabon,,,,11
+152.0,Andorra,,,,287
+153.0,Papua New Guinea,,,,"2,212"
+154.0,Curaçao,,,,971
+155.0,Aruba,,,,"1,526"
+156.0,Tanzania,,,,
+157.0,Mauritius,,,,687
+158.0,Mayotte,,,,
+159.0,Togo,,,,3
+160.0,Guinea,,,,338
+161.0,Bahamas,,,,874
+162.0,Isle of Man,,,,
+163.0,Lesotho,,,,"8,087"
+164.0,Faeroe Islands,,,,
+165.0,Haiti,,,,74
+166.0,Mali,,,,76
+167.0,Cayman Islands,,,,"22,882"
+168.0,Saint Lucia,,,,548
+169.0,Benin,,,,4
+170.0,Somalia,,,,"12,791"
+171.0,Micronesia,,,,
+172.0,Congo,,,,983
+173.0,Solomon Islands,,,,
+174.0,San Marino,,,,5
+175.0,Timor-Leste,,,,217
+176.0,Burkina Faso,,,,64
+178.0,Gibraltar,,,,"3,858"
+179.0,Grenada,,,,97
+180.0,Bermuda,,,,10
+181.0,Nicaragua,,,,"14,041"
+182.0,South Sudan,,,,115
+183.0,Tajikistan,,,,397
+184.0,Equatorial Guinea,,,,139
+185.0,Monaco,,,,781
+186.0,Tonga,,,,"1,168"
+187.0,Samoa,,,,"15,135"
+188.0,Marshall Islands,,,,2
+189.0,Dominica,,,,13
+190.0,Djibouti,,,,74
+191.0,CAR,,,,55
+192.0,Gambia,,,,65
+193.0,Saint Martin,,,,"10,862"
+194.0,Macao,,,,"8,431"
+195.0,Vanuatu,,,,29
+196.0,Greenland,,,,"9,189"
+197.0,Yemen,,,,662
+198.0,Caribbean Netherlands,,,,"1,168"
+199.0,Sint Maarten,,,,54
+201.0,Niger,,,,729
+202.0,St. Vincent Grenadines,,,,14
+203.0,Guinea-Bissau,,,,508
+204.0,Comoros,,,,9
+205.0,Antigua and Barbuda,,,,6
+206.0,Liberia,,,,12
+207.0,Sierra Leone,,,,
+208.0,Chad,,,,"2,633"
+209.0,British Virgin Islands,,,,
+210.0,Cook Islands,,,,4
+211.0,Turks and Caicos,,,,19
+214.0,Palau,,,,3
+215.0,St. Barth,,,,
+216.0,Nauru,,,,45
+217.0,Kiribati,,,,"2,354"
+218.0,Anguilla,,,,13
+219.0,Wallis and Futuna,,,,"3,104"
+220.0,Saint Pierre Miquelon,,,,"1,001"
+221.0,Tuvalu,,,,"2,942"
+222.0,Saint Helena,,,,"2,164"
+224.0,Montserrat,,,,19
+225.0,Niue,1.0,,,1
+228.0,Tokelau,,,,23
+231.0,China,,,,"118,977"
+,Total:,464.0,0.0,"+10,672","20,551,665"
